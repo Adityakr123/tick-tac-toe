@@ -1,0 +1,126 @@
+h3{
+    text-align: center;
+    color:#61122f;
+}
+.topclass{
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	height: fit-content;
+	position: fixed;
+	background-color:#f6b319;
+	text-align: center;
+	color:white;
+	font-size:large;
+	
+}
+.body{
+color: black;
+}
+.mainclassX{
+    
+    text-align: left; 
+    margin-left:3%; 
+   
+    font-size: xx-large;
+    color:white;
+    background-color: black;
+}
+.mainclasso{
+    
+     
+    margin-left: 83%;
+    font-size: xx-large;
+    color:white;
+    background-color: black;
+}
+.mainclassleft{
+    color: black; 
+    text-align: left; 
+    margin-left:25%; 
+   
+    font-size: xx-large;
+    color:white;
+    background-color: black;
+}
+.mainclassleftleft{
+    color: black; 
+    text-align: left; 
+    margin-left:15%; 
+    
+    font-size: xx-large;
+    color:white;
+    background-color: black;
+
+}
+#btn00{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+}
+#btn01{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn02{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn10{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn11{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn12{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn20{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn21{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
+#btn22{
+
+    background-color: black;
+    border-color: black;
+    border-style: none;
+    outline: none;
+
+}
