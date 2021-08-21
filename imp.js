@@ -469,7 +469,7 @@ function checkwin(){
 
     else{
     if (count==5||count==4){
-            if(count==5||count==4){
+            if(count==5){
             document.getElementById('result').innerHTML="DRAW";
             }
         vin=2;  
